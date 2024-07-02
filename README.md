@@ -13,7 +13,7 @@ I'm Fredrik, a researcher at the Norwegian Institute of Public Health
 ## Gallery
 
 [TBA]
-
+<img src="MethiF/R_Categories/blob/main/categories.svg" width="128"/>
 
 <!--
 **MethiF/MethiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
