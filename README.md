@@ -12,7 +12,6 @@ I'm Fredrik, a researcher at the Norwegian Institute of Public Health
 
 ## Gallery
 
-[TBA]
 <img src="https://github.com/MethiF/R_Categories/blob/main/categories.svg" width="1280"/>
 
 <!--
