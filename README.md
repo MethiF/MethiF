@@ -12,6 +12,9 @@ I'm Fredrik, a researcher at the Norwegian Institute of Public Health
 
 ## Gallery
 
+<img src="https://github.com/MethiF/R_sports/blob/main/sportmembers.svg" width="1280"/>
+
+
 <img src="https://github.com/MethiF/R_Categories/blob/main/categories.svg" width="1280"/>
 
 <!--
