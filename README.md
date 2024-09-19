@@ -15,8 +15,6 @@ I'm Fredrik, a researcher at the Norwegian Institute of Public Health
 <img src="https://github.com/MethiF/R_sports/blob/main/sportmembers.svg" width="1280"/>
 
 
-<img src="https://github.com/MethiF/R_Categories/blob/main/categories.svg" width="1280"/>
-
 <!--
 **MethiF/MethiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
