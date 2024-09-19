@@ -7,7 +7,7 @@ I'm Fredrik, a researcher at the Norwegian Institute of Public Health
   - :family: Informal care in Norway
   - :mask: Effect of preventive covid-19 measures 
 
-💬 Ask me about R visualization using ggplot2 or the use of Norwegian regsitry data
+💬 Ask me about R visualization using ggplot2 or the use of Norwegian registry data
 
 
 ## Gallery
